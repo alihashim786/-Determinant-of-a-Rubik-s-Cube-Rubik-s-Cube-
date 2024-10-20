@@ -1,4 +1,3 @@
-# -Determinant-of-a-Rubik-s-Cube-Rubik-s-Cube-
 C++ program to find the  Determinant of a Rubik's Cube on the basis of user input 
 
 # Find the Determinant of a Rubik's Cube
@@ -39,17 +38,17 @@ This project focuses on creating and manipulating a Rubik's Cube of varying size
 
 Please enter the size of the Rubik's Cube (2-5): 3 Initial Rubik's Cube: 
   
-  79 89 21 
-  69 49 53
-  85 50 31
-  
-  55 54 73
-  43 74 46 
-  45 7 71
-  
-  26 67 89 
-  64 36 14
-  20 78 41
+     79 89 21 
+     69 49 53
+     85 50 31
+     
+     55 54 73
+     43 74 46 
+     45 7 71
+     
+     26 67 89 
+     64 36 14
+     20 78 41
 
 Enter values for the top side of the Rubik's Cube:
 
@@ -92,3 +91,9 @@ Updated Rubik's Cube:
     26 67 89 
     64 36 14
     20 78 41
+
+## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
+If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
+
